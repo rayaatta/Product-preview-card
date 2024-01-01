@@ -65,11 +65,11 @@ h1 {
     align-items:center;
     gap:1rem;
 }
-.price-container > p {
+.price-container > p:not(. discount) {
     width:50%;
     margin-block: 1rem;
 }
-.price-container > p + p {
+.price-container > p: nth-child(2) {
     text-decoration: line-through;
     font-size: .8em;
 }
