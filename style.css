@@ -61,7 +61,7 @@ body {
 
 }
 main {
-    width:clamp(20rem, 21rem, 22rem);
+    width:min(90%, 21rem);
     background:#fff;
     border-radius: .5rem;
 }
