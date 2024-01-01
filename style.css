@@ -61,7 +61,7 @@ body {
 
 }
 main {
-    width:min(90%, 21rem);
+    width:min(90%, 22rem);
     background:#fff;
     border-radius: .5rem;
 }
