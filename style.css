@@ -36,9 +36,6 @@ img {
     max-width: 100%;
     object-fit:cover;
 }
-.desktop {
-    display:none;
-}
 .mobile {
     border-radius: .5rem .5rem 0 0;;
 
@@ -118,7 +115,6 @@ footer {
         display:none;
     }
     .desktop {
-        display:block;
         border-radius: .5rem 0 0 .5rem;
         min-height:100%;
         
