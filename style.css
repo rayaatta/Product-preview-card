@@ -111,6 +111,7 @@ footer {
     }
     img {
         border-radius: .5rem 0 0 .5rem;
+        display:block;
     }
     .perfume {
         margin-top: 2rem;
